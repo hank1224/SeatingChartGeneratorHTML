@@ -4,7 +4,7 @@ Given a CSV file with `First name` and `ID number` columns, this script generate
 
 It allows customization of the number of seat rows, the number of seats per row, exam subject name, exam date, and exam time.
 
-[Seating Chart Preview](https://hank1224.github.io/SeatingChartGeneratorHTML/seating_chart_frontloaded_zh_rs42.html)
+[Seating Chart Preview](https://hank1224.github.io/SeatingChartGeneratorHTML/pages/seating_chart_frontloaded_zh_rs42.html)
 
 ## Usage
 
