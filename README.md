@@ -4,7 +4,7 @@
 
 可自訂 座位排數、每排座位數量、考試科目名稱、考試日期、考試時間。
 
-[座位表預覽](https://hank1224.github.io/SeatingChartGeneratorHTML/)
+[座位表預覽](https://hank1224.github.io/SeatingChartGeneratorHTML/seating_chart_frontloaded_zh_rs42.html)
 
 ## 使用方法
 
